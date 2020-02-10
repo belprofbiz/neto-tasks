@@ -1,0 +1,52 @@
+Вводный урок по курсу "Python и математика для анализа данных"
+
+Здравствуйте!
+
+До начала курса прошу, Вас просмотреть - Вводный урок и Гостевые лекции.
+
+После просмотра «вводного урока» рекомендую вам установить следующие ПО, которое понадобиться для выполнения домашних работ и конечно в профессии тоже:
+1. Python 3.7 версии
+2. Anaconda
+3. Jupyter
+4. Git
+
+
+Cсылки для работы.
+
+
+1) Установка GIT  и работа с ним - нужно для домашних работ
+
+Git - https://githowto.com/ru
+Видео про git - https://www.youtube.com/watch?v=JfpCicDUMKc
+https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6
+https://habr.com/ru/post/68341/
+https://git-scm.com/book/ru/v1/Основы-Git
+https://tproger.ru/translations/git-quick-start/
+
+Cкринкаст - файл 'Установка Git на Windows.mp4'
+ 
+
+2) Установка Python 3.7 - файл 'Установка Python на Windows.wmv'
+
+
+3) Настройка окружающей среды, работа в Аnaconda и Jupyter notebook для работы с кодом
+
+
+Анаконда
+https://www.anaconda.com/distribution/#macos   
+https://youtu.be/YJC6ldI3hWk
+
+Юпитер
+https://medium.com/codingthesmartway-com-blog/getting-started-with-jupyter-notebook-for-python-4e7082bd5d46
+https://www.dataquest.io/blog/jupyter-notebook-tutorial/
+https://www.analyticsvidhya.com/blog/2018/05/starters-guide-jupyter-notebook/
+
+
+4) Дополнительно для себя
+
+https://stepik.org/lesson/2231/step/1?unit=928
+https://www.datacamp.com/community/tutorials/data-structures-python
+
+https://habr.com/ru/post/29778/ - Основы Python в кратком изложении
+https://pythonworld.ru/samouchitel-python - Самоучитель Python
+https://www.python.org/about/gettingstarted/ - Python For Beginners (англ.язык)
